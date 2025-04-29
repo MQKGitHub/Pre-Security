@@ -27,3 +27,9 @@ Each room in the path has its own folder with a dedicated `README.md` writeup.
 | <p align="center">`Windows Fundamentals`</p>          | Learning these basics will help you in identifying, exploiting, and defending Windows. | [View](https://github.com/MQKGitHub/Windows-Fundamentals) |
 
 ---
+
+### 🎓 Certificate
+
+I completed the **Pre Security** path on TryHackMe.  
+You can view my certificate here:  
+🔗 [View Certificate on TryHackMe](https://tryhackme.com/certificate/THM-EM0NNM7EQG)
