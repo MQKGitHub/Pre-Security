@@ -1,30 +1,34 @@
-## 🚀 Pre-Security Path
+## 🚀 TryHackMe: Pre-Security Path
 
-Welcome to the **Pre-Security Path**!  
-This page covers foundational topics in cyber security, essential for beginners to develop a strong understanding before moving on to more advanced areas.
+Welcome to my journey through the [Pre Security](https://tryhackme.com/path/outline/presecurity) learning path on TryHackMe. This path covers foundational topics in cyber security, essential for beginners to develop a strong understanding before moving on to more advanced areas.
 
 ---
 
-### 🧠 What You'll Find Here
+### 📚 Path Overview
 
-- 🔐 **Writeups** for the rooms I’ve completed in the Pre-Security path  
-- 📝 **Key concepts** explained in my own words  
-- 🛠️ **Tools used** and commands practised  
-- 💡 **What I learned** and personal reflections
-
-Each room in the path has its own folder with a dedicated `README.md` writeup.
+- **Modules:** 5
+- **Rooms:** 18
+- **Difficulty:** Easy
+- **Focus Areas:**
+  - Introduction to Cyber Security
+  - Networking fundamentals and the OSI Model
+  - Web technologies (DNS, HTTP, and how websites work)
+  - Linux fundamentals
+  - Windows fundamentals
 
 ---
 
 ### 📁 Section Index
 
-| Section Name                         | Topic                                                                    | Link                                                                |
-|--------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------|
-| <p align="center">`Introduction to Cyber Security`</p>    | Learn about offensive and defensive security.                            | [View](https://github.com/MQKGitHub/Introduction-to-Cyber-Security) |
-| <p align="center">`Network Fundamentals`</p>            | Learn the core concepts of how computers communicate with each other and types of network weaknesses. | [View](https://github.com/MQKGitHub/Network-Fundamentals) |
-| <p align="center">`How The Web Works`</p>            | Learn to understand the underlying functions of the world wide web and what makes it work. | [View](https://github.com/MQKGitHub/How-The-Web-Works) |
-| <p align="center">`Linux Fundamentals`</p>            | Learn how to use the Linux operating system, a critical skill in cyber security. | [View](https://github.com/MQKGitHub/Linux-Fundamentals) |
-| <p align="center">`Windows Fundamentals`</p>          | Learning these basics will help you in identifying, exploiting, and defending Windows. | [View](https://github.com/MQKGitHub/Windows-Fundamentals) |
+Below is a list of sections completed, each accompanied by rooms with detailed write-up:
+
+| #  | Section Name                         | Topic                                                                    | Link                                                                |
+|----|--------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------|
+| 1  | Introduction to Cyber Security     | Learn about offensive and defensive security.                            | [View](https://github.com/MQKGitHub/Introduction-to-Cyber-Security) |
+| 2  | Network Fundamentals               | Learn the core concepts of how computers communicate with each other and types of network weaknesses. | [View](https://github.com/MQKGitHub/Network-Fundamentals) |
+| 3  | How The Web Works                  | Learn to understand the underlying functions of the world wide web and what makes it work. | [View](https://github.com/MQKGitHub/How-The-Web-Works) |
+| 4  | Linux Fundamentals                 | Learn how to use the Linux operating system, a critical skill in cyber security. | [View](https://github.com/MQKGitHub/Linux-Fundamentals) |
+| 5  | Windows Fundamentals               | Learning these basics will help you in identifying, exploiting, and defending Windows. | [View](https://github.com/MQKGitHub/Windows-Fundamentals) |
 
 ---
 
