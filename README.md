@@ -36,4 +36,4 @@ Below is a list of completed sections, each with rooms and detailed write-ups:
 
 I completed the **Pre Security** path on TryHackMe.  
 You can view my certificate here:  
-🔗 [View Certificate on TryHackMe](https://tryhackme.com/certificate/THM-EM0NNM7EQG)
+🔗 [View Certificate on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EM0NNM7EQG.png)
